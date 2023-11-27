@@ -1,6 +1,9 @@
 ##########################
 # KEDRO PROJECT
 
+# virtual environment
+my_venv/
+
 # ignore all local configuration
 conf/local/**
 !conf/local/.gitkeep
