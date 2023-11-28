@@ -1,11 +1,11 @@
 
-# Network Analysis Python Package
+# Network Analysis
 
 ## Overview
 
 This Python package, `network_analysis`, is designed for conducting network analysis task. It provides tools and utilities to analyze network data, with a focus on handling Slack messages from a previous 10 Academy training program.
 
-## What to do
+## Instructions on how to navigate
 
 Several code snippets have been provided to serve as a starting point for your project. However, it's essential to note that the code has not undergone thorough testing, and errors are expected. Your task is to identify and rectify errors, remove unnecessary components, and incorporate any missing elements.
 
